@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485682079789",
+    "firebase_url": "https://sportsstore-9f626.firebaseio.com",
+    "project_id": "sportsstore-9f626",
+    "storage_bucket": "sportsstore-9f626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485682079789:android:87bcea2fdeaf80d9c7b0a4",
+        "android_client_info": {
+          "package_name": "com.example.sportstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485682079789-vscmvh880aqalc2plopimbcht9e9fbm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sportstore",
+            "certificate_hash": "d1cae42bb8df0b98e0cb9f6e2227a79a86cb6ad0"
+          }
+        },
+        {
+          "client_id": "485682079789-9hc3ucau77dt74mk51ui109fei4o2p6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCTMV6DV-KK3nK4Cji1dnIIHCdUQvhZ9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485682079789-9hc3ucau77dt74mk51ui109fei4o2p6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
